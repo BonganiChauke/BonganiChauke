@@ -2,8 +2,9 @@
 
 <div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
   <div>
-      <p>
-          <img src="../IMG_1312" alt="" style="max-width: 150px; border-radius: 50%;" />
+     <p>
+          <img src="/BonganiChauke-main/IMG_1312.jpeg" alt="Bongani Chauke Image"
+           style="max-width: 150px; border-radius: 20px; -webkit-filter: grayscale(100%); filter: grayscale(100%)" />
       </p>
   </div>
 
@@ -40,7 +41,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+<p align="left" style="margin-top: 50px; margin-bottom: 50px;"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
             alt="android" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
@@ -83,7 +84,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<div style="display: flex; justify-content: space-between; gap: 10px; align-items: center;">
+<div style="display: flex; justify-content: space-between; gap: 10px; align-items: center; margin-top; 50px">
     <img src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
         alt="bongani chauke stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
