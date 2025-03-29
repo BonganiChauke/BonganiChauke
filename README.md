@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Bongani Chauke</h1>
 
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
   <div>
      <p>
-          <img src="/BonganiChauke-main/IMG_1312.jpeg" alt="Bongani Chauke Image"
-           style="max-width: 150px; border-radius: 20px; -webkit-filter: grayscale(100%); filter: grayscale(100%)" />
+          <img src="./assets/IMG_1312.jpeg" alt="Bongani Chauke Image"
+           style="width: 200px; border-radius: 50%; -webkit-filter: grayscale(100%); filter: grayscale(100%)" />
       </p>
   </div>
 
@@ -12,6 +12,8 @@
     <h3> A passionate software developer with a solid background in software development principles such as programming, coding, project planning, and management. </h3>
   </div>
 </div>
+
+
 
 - 🌱 I’m currently learning **Python for data analytics**
 - 📫 How to reach me: **bonganichauke11@outlook.com**
