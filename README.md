@@ -85,8 +85,8 @@
             alt="typescript" width="40" height="40" /> </a> </p>
 
 <div style="display: flex; justify-content: space-between; gap: 10px; align-items: center; margin-top; 50px">
-    <img src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
+    <img style="max-width: 150px; border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
         alt="bongani chauke stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
+    <img style="max-width: 150px; border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
         alt="bongani chauke streak stats" />
 </div>
