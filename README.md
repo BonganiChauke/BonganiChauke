@@ -1,17 +1,16 @@
 <h1>Hi 👋, I'm Bongani Chauke</h1>
 
-<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center; flex-wrap: wrap; text-align: center;">
-  <img src="./assets/IMG_1312.jpeg" alt="Bongani Chauke Image" 
-       style="width: 200px; border-radius: 50%; -webkit-filter: grayscale(100%); filter: grayscale(100%);" />
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center; text-align: center;">
+  <img src="./assets/IMG_1312.jpeg" style="width: 200px; border-radius: 2rem; -webkit-filter: grayscale(100%); filter: grayscale(100%);" alt="Bongani Chauke Image"   />
   
   <div style="flex: 1; min-width: 250px;">
     <h3>
       A passionate software developer with a solid background in software development principles 
-      such as programming, coding, project planning, and management.
-    </h3>
+      such as programming, coding, project planning, and management. With over a year experience in software engineering, I specialize in Python, Java, SQL, C#, Kotlin, HTML and CSS and enjoy
+      building responsive web applications, mobile apps, and robust backend systems.
+    </h3>    
   </div>
 </div>
-
 
 - 🌱 I’m currently learning **Python for data analytics**
 - 📫 How to reach me: **bonganichauke11@outlook.com**
