@@ -1,18 +1,16 @@
 <h1>Hi 👋, I'm Bongani Chauke</h1>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
-  <div>
-     <p>
-          <img src="./assets/IMG_1312.jpeg" alt="Bongani Chauke Image"
-           style="width: 200px; border-radius: 50%; -webkit-filter: grayscale(100%); filter: grayscale(100%)" />
-      </p>
-  </div>
-
-  <div>
-    <h3> A passionate software developer with a solid background in software development principles such as programming, coding, project planning, and management. </h3>
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center; flex-wrap: wrap; text-align: center;">
+  <img src="./assets/IMG_1312.jpeg" alt="Bongani Chauke Image" 
+       style="width: 200px; border-radius: 50%; -webkit-filter: grayscale(100%); filter: grayscale(100%);" />
+  
+  <div style="flex: 1; min-width: 250px;">
+    <h3>
+      A passionate software developer with a solid background in software development principles 
+      such as programming, coding, project planning, and management.
+    </h3>
   </div>
 </div>
-
 
 
 - 🌱 I’m currently learning **Python for data analytics**
@@ -86,9 +84,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 
-<div style="display: flex; justify-content: space-between; gap: 10px; align-items: center; margin-top; 50px">
-    <img style="max-width: 150px; border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
+<div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
+    <img style="width: 350px; border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
         alt="bongani chauke stats" />
-    <img style="max-width: 150px; border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
+    <img style="width: 350px; border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
         alt="bongani chauke streak stats" />
 </div>
