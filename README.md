@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Bongani Chauke</h1>
 
 <div style="display: flex; justify-content: space-between; gap: 20px; align-items: center; text-align: center;">
-  <img src="./assets/IMG_1312.jpeg" style="width: 200px; border-radius: 2rem; -webkit-filter: grayscale(100%); filter: grayscale(100%);" alt="Bongani Chauke Image"   />
-  
-  <div style="flex: 1; min-width: 250px;">
+  <div>
     <h3>
       A passionate software developer with a solid background in software development principles 
       such as programming, coding, project planning, and management. With over a year experience in software engineering, I specialize in Python, Java, SQL, C#, Kotlin, HTML and CSS and enjoy
