@@ -8,6 +8,12 @@
       building responsive web applications, mobile apps, and robust backend systems.
     </h3>    
   </div>
+  <p align="center">
+	<a href="https://github.com/BonganiChauke/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=BonganiChauke&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+	<a href="https://github.com/BonganiChauke?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/BonganiChauke"/></a>
+	<a href="https://github.com/BonganiChauke?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/BonganiChauke?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
 </div>
 
 - 🌱 I’m currently learning **Python for data analytics**
