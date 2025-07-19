@@ -17,7 +17,7 @@
 </div>
 
 - 🌱 I’m currently learning **Python for data analytics**
-- 📄 Know about my experiences [https://flowcv.com/resume/rosqll9scwrm](https://flowcv.com/resume/rosqll9scwrm)
+- 📄 Know about my experiences <a target="blank" href="https://flowcv.com/resume/rosqll9scwrm">View my Resume</a>
 - 📫 How to reach me: **bonganichauke11@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
