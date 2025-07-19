@@ -88,8 +88,8 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
             alt="typescript" width="40" height="40" /> </a> </p>
 <h3 align="left">GitHub Stats:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonganichauke" alt="bonganichauke" /></a> </p>
 <div style="display: flex; justify-content: space-between; gap: 20px; align-items: center;">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bonganichauke" alt="bonganichauke" /></a> </p>
     <img style="width: 350px; border-radius: 20px;" src="https://github-readme-stats.vercel.app/api?username=bonganichauke&show_icons=true&locale=en"
         alt="bongani chauke stats" />
     <img style="width: 350px; border-radius: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=bonganichauke&"
